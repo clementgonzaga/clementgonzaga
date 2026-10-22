@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**clementgonzaga/clementgonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Clément 👋
 
-Here are some ideas to get you started:
+### IT Student | Software Development & Game Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a French IT student interested in software engineering, programming, and game development.
+
+I use GitHub to document my learning journey, build projects, and improve my development skills through practical work.
+
+## About Me
+
+- 🎓 Studying computer science and software development
+- 💻 Exploring programming, databases, and web technologies
+- 🎮 Interested in game development and interactive systems
+- 🛠️ Learning by building projects and solving technical problems
+
+## Technologies
+
+**Languages**
+- Go
+- Java
+- JavaScript
+- SQL
+- HTML / CSS
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux
+- Supabase
+
+## Featured Projects
+
+Explore my repositories to see what I'm building and learning.
+
+## Current Goals
+
+- Strengthen my software engineering fundamentals
+- Build complete, documented projects
+- Improve my database and API development skills
+- Develop practical game programming projects
+
+---
+
+*Always learning. Always building.*
