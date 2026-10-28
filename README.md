@@ -1,111 +1,68 @@
-# Hi, I'm Clément Gonzaga 👋
+<div align="center">
 
-### 💻 Computer Science Student @ Ynov Campus
+<img src="banner.svg" width="100%" alt="Clément Gonzaga — Software Development" />
 
-I'm a second-year Bachelor's student in Computer Science at **Ynov Campus Val d'Europe, France**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1100&color=9D7CFF&center=true&vCenter=true&width=750&lines=%3E+Computer+Science+Student+%40+Ynov+Campus;%3E+Go+%7C+Java+%7C+JavaScript+%7C+SQL;%3E+Building+projects+%26+learning+every+day;%3E+Open+to+internship+opportunities" alt="Animated introduction" />
 
-I'm interested in software development, programming, databases, and computer systems. I use GitHub to share my projects, apply what I learn, and continuously improve my technical skills.
+<img src="divider.svg" width="100%" alt="Section divider" />
 
----
+### 👨‍💻 about me
 
-## 👨‍💻 About Me
+</div>
 
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science at Ynov Campus.
-- 💡 Interested in software engineering, application development, and problem-solving.
-- 🛠️ Learning through academic projects, practical exercises, and personal experiments.
-- 🌱 Continuously improving my programming, database, and development skills.
-- 🇫🇷 Based in France.
+```go
+package main
 
-My goal is to build a strong foundation in computer science and gradually develop the skills needed to design, build, and maintain reliable software.
+var developer = struct {
+    Name       string
+    Education  string
+    Focus      []string
+    Approach   string
+}{
+    Name:      "Clément Gonzaga",
+    Education: "2nd-year Computer Science Bachelor's @ Ynov Campus",
+    Focus:     []string{"Software Development", "Backend", "Databases", "Systems"},
+    Approach:  "Learn by building. Improve with every project.",
+}
+```
 
----
+<div align="center">
 
-## 🧰 Technologies & Tools
+🎓 **Bachelor Informatique — 2e année** · Ynov Campus Val d'Europe, France  
+💼 **Open to internship opportunities** · Software development / general IT
 
-### Programming Languages
+<img src="divider.svg" width="100%" alt="Section divider" />
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🛠️ tech stack
 
-### Development Tools
+<img src="https://skillicons.dev/icons?i=go,java,js,html,css,postgres,git,github,linux&theme=dark&perline=9" alt="Programming languages and tools" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Go · Java · JavaScript · HTML/CSS · SQL · Git · Linux**
 
-### Databases & Backend
+<img src="divider.svg" width="100%" alt="Section divider" />
 
-- SQL and relational database fundamentals
-- Database design and queries
-- Backend development fundamentals
-- APIs and application integration
+### 📂 featured projects
 
----
+<a href="https://github.com/clementgonzaga/Serveur-pour-lowa"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clementgonzaga&repo=Serveur-pour-lowa&hide_border=true&bg_color=0D1117&title_color=9D7CFF&icon_color=47C8FF&text_color=C9D1D9" alt="Serveur-pour-lowa" /></a>
+<a href="https://github.com/clementgonzaga/GraveSong"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clementgonzaga&repo=GraveSong&hide_border=true&bg_color=0D1117&title_color=9D7CFF&icon_color=47C8FF&text_color=C9D1D9" alt="GraveSong" /></a>
+<a href="https://github.com/clementgonzaga/Ydays-LOWA"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clementgonzaga&repo=Ydays-LOWA&hide_border=true&bg_color=0D1117&title_color=9D7CFF&icon_color=47C8FF&text_color=C9D1D9" alt="Ydays-LOWA" /></a>
+<a href="https://github.com/clementgonzaga/Groupie-Persso"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=clementgonzaga&repo=Groupie-Persso&hide_border=true&bg_color=0D1117&title_color=9D7CFF&icon_color=47C8FF&text_color=C9D1D9" alt="Groupie-Persso" /></a>
 
-## 🚀 Featured Projects
+<img src="divider.svg" width="100%" alt="Section divider" />
 
-Here are some of the projects I've worked on during my studies and development journey.
+### 📊 github activity
 
-### [Serveur-pour-lowa](https://github.com/clementgonzaga/Serveur-pour-lowa)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=clementgonzaga&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D7CFF&icon_color=47C8FF&text_color=C9D1D9&ring_color=9D7CFF" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementgonzaga&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D7CFF&text_color=C9D1D9" alt="Most used repository languages" />
 
-**Go**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clementgonzaga&bg_color=0D1117&color=9D7CFF&line=9D7CFF&point=47C8FF&area=true&area_color=473A7C&hide_border=true&custom_title=Contribution%20activity" alt="Contribution graph" />
 
-A project focused on server-side development.
+<img src="divider.svg" width="100%" alt="Section divider" />
 
-### [GraveSong](https://github.com/clementgonzaga/GraveSong)
+### 🤝 let's connect
 
-**JavaScript**
-
-A web-based game project exploring interactive application development.
-
-### [Ydays-LOWA](https://github.com/clementgonzaga/Ydays-LOWA)
-
-**HTML**
-
-A website developed as part of the Ydays project.
-
-### [Groupie-Persso](https://github.com/clementgonzaga/Groupie-Persso)
-
-**JavaScript**
-
-A JavaScript project developed as part of my programming practice.
-
-> Each repository contains its own implementation and documentation. I'm progressively improving my projects to make them easier to understand, run, and maintain.
-
----
-
-## 📚 What I'm Learning
-
-- Object-oriented programming and software design
-- Algorithms, data structures, and problem-solving
-- Web development and application architecture
-- SQL, relational databases, and database management
-- Backend programming and APIs
-- Linux, command-line tools, and development workflows
-- Git, version control, and collaborative development
-
----
-
-## 🎯 My Goals
-
-- Build complete and well-documented software projects.
-- Strengthen my programming fundamentals across multiple languages.
-- Improve my code quality, testing, and debugging practices.
-- Gain experience with real-world development workflows.
-- Collaborate on projects and explore open-source software.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, exchanging ideas, and discovering new projects in computer science.
-
-Feel free to explore my repositories and follow my progress!
-
----
+[![GitHub](https://img.shields.io/badge/Explore_my_repositories-171529?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clementgonzaga?tab=repositories)
 
 *Learning by building. Improving one project at a time.*
+
+</div>
