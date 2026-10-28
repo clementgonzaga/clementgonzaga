@@ -53,5 +53,6 @@ var developer = struct {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clementgonzaga&bg_color=0d1117&color=9d7cff&line=9d7cff&point=47c8ff&area=true&area_color=9d7cff&hide_border=true&custom_title=activity" />
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:9d7cff&height=110&section=footer" width="100%" />
 
 </div>
