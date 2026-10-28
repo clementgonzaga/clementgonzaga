@@ -51,7 +51,7 @@ var developer = struct {
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=clementgonzaga&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=9d7cff&icon_color=47c8ff&text_color=c9d1d9&ring_color=9d7cff" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementgonzaga&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d7cff&text_color=c9d1d9" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clementgonzaga&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clementgonzaga&theme=tokyonight" width="100%" alt="GitHub Profile Activity" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:9d7cff&height=110&section=footer" width="100%" />
 
